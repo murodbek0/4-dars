@@ -33,13 +33,17 @@
 
 // alert("Tomonlari soni N ga teng bo’lgan qavariq ko’pburchakning ichki burchaklari yig’indisini toping.");
 // let N = +prompt('N sonni krting');
- 
-// let = + ((N - 2) * 180)
 
-// console.log('');
+// console.log((N - 2) * 180);
 
 
 
 // 4 misol
+
+alert("Sizga biror vaqtni beraman shu vaqtda t minut o'tgandan keyingi vaqtni ayting. 24 soatlik vaqt haqida malumotga ega bo'lmasangiz:");
+
+let t = +prompt("minut");
+
+
 
 
