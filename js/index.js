@@ -38,11 +38,51 @@
 
 
 
-// 4 misol
 
-alert("Sizga biror vaqtni beraman shu vaqtda t minut o'tgandan keyingi vaqtni ayting. 24 soatlik vaqt haqida malumotga ega bo'lmasangiz:");
+// 4-masala
+// let vali = +prompt("v");
+// let ali =  +prompt("a");
+// let bil =  +prompt("b");
+// let a = (bil-vali);
+// let s = (ali-vali);
+// console.log(a);
+// console.log(s);
 
-let t = +prompt("minut");
+
+
+// 5-masala
+// let n = +prompt("b");
+// let a =  +prompt("a");
+// let d = (b % a);
+// console.log(d);
+   
+// 6-masala
+// let n = +prompt("n");
+// let b = n * (n-2); 
+// console.log(b);
+
+
+// 7-masala
+// let b = +prompt("b");
+// let a = +prompt("a");
+// let s =  +prompt("s");
+// let y = (b-s);
+// let y = (a-s);
+// let h = (y/2)
+// console.log(h);
+
+// 8-masala
+// let b = +prompt("b");
+// let a = +prompt("a");
+// let d =  +prompt("d");
+// let m = (b+d)/2;
+// let m = (a+d)/2;
+// console.log(m);
+
+// 9-masala
+// let a = +prompt("a");
+// let b = a * (a-3)/2; 
+// console.log(b);
 
 
 
